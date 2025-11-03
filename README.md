@@ -141,4 +141,5 @@ Software Engineer, Newgen Digital
 📧 tarunkumar@newgendigital.com
 📱 +91-8464962396
 
-🔗 Project Repository Link
+**🔗 Project Repository Link **
+https://github.com/tarun31513/Social-Eye.git
